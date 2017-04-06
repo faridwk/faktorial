@@ -22,5 +22,6 @@ class ketupat {
         System.out.print("*");
         System.out.print("\n");
     }
+    System.out.print("Sudah di edit");
   }
 }
